@@ -115,9 +115,11 @@ var pre83="一、案情分析 <br>" +
 	"第三十五条 违反本办法的规定，有下列情形之一的，由税务机关责令改正，可以处1万元以下的罚款；有违法所得的予以没收： <br>" +
 	"（一）应当开具而未开具发票，或者未按照规定的时限、顺序、栏目，全部联次一次性开具发票，或者未加盖发票专用章的； <br>" +
 	"三、相关建议 <br>" +
-	"建议您向对方所在地的税务部门投诉，依法维权 <br>";
+	"建议您向对方所在地的税务部门投诉，依法维权 <br>"+
+    	"是否解决您的问题？<a href='javascript:;' class='res-link' target='_blank' onclick='flagg_=99,appendText()' >是</a>"+
+    	"<a href='https://koubei.baidu.com/m2' target='_blank' >否</a>";
 
-
+var pre99="感谢您的使用";
 
 function appendText()
 {
