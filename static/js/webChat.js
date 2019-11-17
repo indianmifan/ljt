@@ -41,7 +41,7 @@ var mainCon = new Vue({
                 {
                     id:"r001",
                     avatarUrl:"./static/images/group-icon.png",
-                    name:"法律援助助手",
+                    name:"法律点评自动回复助手",
                     type:"room"
                 }
             ],
